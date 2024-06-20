@@ -3,7 +3,7 @@
 # Welcome to Auto-Memory, a car trivia game where you try to remember details about a variety of different cars!
 
 ## Play Now
-Experience the game: auto-memory.netlify.app.
+Experience the game [here] (https://auto-memory.netlify.app/).
 
 # How to Play
 - Start the game by clicking on the "Load Car" button.
