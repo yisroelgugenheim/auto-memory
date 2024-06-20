@@ -1,0 +1,18 @@
+/* Style the escape button */
+.escape-button {
+    display: inline-block;
+    cursor: pointer;
+    padding: 9px 20px;
+    background-color: #f00000; /* Change to your desired button color */
+    color: #7c7474; /* Text color */
+    text-decoration: none; /* Remove underlines on the link */
+    border: 1px solid #ff0000; /* Add a border for button-like appearance */
+    /* border-radius: 5px; Rounded corners */
+    margin-left: 1104px;
+  }
+
+  /* Hover effect for the escape button */
+  .escape-button:hover {
+    background-color: #ef0000; /* Change to your desired hover color */
+    border-color: #ef0000; /* Change to your desired hover color */
+  }
