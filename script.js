@@ -49,17 +49,17 @@ let a3;
 let gotAnswer = false;
 let details = [];
 
-const rightAnswerFX = new Audio('../assets/correct-6033.mp3')
+const rightAnswerFX = new Audio('./assets/correct-6033.mp3')
 rightAnswerFX.volume = 0.4
 function rightAA () {
   rightAnswerFX.play()
 }
-const wrongAnswerFX = new Audio('../assets/wrong-answer-129254.mp3')
+const wrongAnswerFX = new Audio('./assets/wrong-answer-129254.mp3')
 wrongAnswerFX.volume = 0.4
 function wrongAA () {
   wrongAnswerFX.play()
 }
-const audio = new Audio('../assets/drag-racing-2-6842.mp3')
+const audio = new Audio('./assets/drag-racing-2-6842.mp3')
 audio.volume = 0.2
 function playAudio() {
   audio.play()
@@ -160,7 +160,7 @@ function removeVid() {
 }
 
 let vid = document.createElement('video')
-vid.src = '../assets/135728 (720p).mp4'
+vid.src = './assets/135728 (720p).mp4'
 vid.loop = true
 vid.muted = true
 vid.autoplay = true
@@ -177,7 +177,7 @@ vid.style.height = '100vh'
 document.body.appendChild(vid)
 
 let img = document.createElement('img')
-img.src = '../assets/pexels-jay-pizzle-3802510.jpg'
+img.src = './assets/pexels-jay-pizzle-3802510.jpg'
 img.style.visibility = 'hidden'
 img.style.height = '400px'
 img.style.width = '550px'
