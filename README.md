@@ -11,7 +11,8 @@ Experience the game here https://auto-memory.netlify.app
 - Hit 'Enter' to submit and see if you were right!
 
 ## Feedback
-Loved the game or have suggestions for improvement? Feel free to open an issue or submit a pull request!
+Loved the game or have suggestions for improvement?
+Feel free to open an issue or submit a pull request!
 
 ### Credits
 Developed by Yisroel Gugenheim.
