@@ -6,7 +6,7 @@
 Experience the game here https://auto-memory.netlify.app
 
 # How to Play
-- Start the game by clicking on the "Load Car" button.
+- Start the game by clicking on the "load car" button.
 - Enter your answer for the prompted car detail.
 - Hit 'Enter' to submit and see if you were right!
 
